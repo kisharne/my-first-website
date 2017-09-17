@@ -1,2 +1,2 @@
 # my-first-website
-creating a wbesite
+creating a website
